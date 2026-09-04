@@ -7,7 +7,7 @@ about:
   head: f6faa10
   archived: false
   latestVersion: v0.49.1
-  collectedAt: 2026-09-04T19:55:22Z
+  collectedAt: 2026-09-04T20:47:30Z
 timeline:
   created: 2016-01-19
   lastCommit: 2026-08-31
@@ -81,6 +81,44 @@ total:
   openIssue: 20
   commit: 719
 ---
+path: /home/runner/.x-repo/github.com/igorshubovych/markdownlint-cli
+collectedAt: 2026-09-04T20:47:31Z
+loc:
+  Json:
+    code: 7648
+    comments: 0
+    blanks: 3
+    files: 14
+  JavaScript:
+    code: 1065
+    comments: 29
+    blanks: 144
+    files: 11
+  Yaml:
+    code: 20
+    comments: 0
+    blanks: 1
+    files: 4
+  Toml:
+    code: 17
+    comments: 0
+    blanks: 5
+    files: 3
+  Dockerfile:
+    code: 7
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 250
+    blanks: 119
+    files: 26
+total:
+  code: 8792
+  comments: 279
+  blanks: 282
+  files: 59
 ---
 date: "2026-08-24"
 repo:
