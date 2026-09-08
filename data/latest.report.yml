@@ -5,7 +5,7 @@ about:
   head: c40e667
   archived: false
   latestVersion: "v0.49.1"
-  collectedAt: 2026-09-08T01:32:33Z
+  collectedAt: 2026-09-08T03:30:08Z
 timeline:
   created: 2016-01-19
   lastCommit: 2026-09-07
@@ -80,7 +80,7 @@ total:
   commit: 720
 ---
 path: /home/runner/.x-repo/github.com/igorshubovych/markdownlint-cli
-collectedAt: 2026-09-08T01:32:34Z
+collectedAt: 2026-09-08T03:30:10Z
 loc:
   Json:
     code: 7648
