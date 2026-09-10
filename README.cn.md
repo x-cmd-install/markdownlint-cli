@@ -12,6 +12,28 @@ MarkdownLint Command Line Interface
 x install markdownlint-cli
 ```
 
+## 代码规模
+
+合计: **8,757** 行代码（覆盖前 5 种语言、共 **33** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 7,648 | 0 | 3 | 14 |
+| JavaScript | 1,065 | 29 | 144 | 11 |
+| Yaml | 20 | 0 | 1 | 4 |
+| Toml | 17 | 0 | 5 | 3 |
+| Dockerfile | 7 | 0 | 6 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **4.5 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/igorshubovych/markdownlint-cli>
@@ -35,30 +57,21 @@ x install markdownlint-cli
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 5 | 0 | 2 | 3 | 8 |
+| last60d | 2026-07-12 | 1 | 18 | 0 | 2 | 4 | 15 |
 | 90d | 2026-06-12 | 2 | 25 | 0 | 2 | 4 | 33 |
+| last180d | 2026-03-14 | 2 | 42 | 0 | 3 | 4 | 52 |
 | 360d | 2025-09-15 | 5 | 73 | 2 | 17 | 4 | 96 |
+| last720d | 2024-09-20 | 9 | 122 | 2 | 31 | 4 | 160 |
 
-## 代码规模
+## 发行版状态
 
-合计: **8,757** 行代码（覆盖前 5 种语言、共 **33** 个文件）。
+在 [repology.org](https://repology.org/project/markdownlint-cli) 上共有 **17** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Json | 7,648 | 0 | 3 | 14 |
-| JavaScript | 1,065 | 29 | 144 | 11 |
-| Yaml | 20 | 0 | 1 | 4 |
-| Toml | 17 | 0 | 5 | 3 |
-| Dockerfile | 7 | 0 | 6 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.5 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.48.0` | ⚠️ outdated |
+| Homebrew | `0.49.1` | ✅ latest |
+| Nix unstable | `0.49.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -69,4 +82,4 @@ markdownlint-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:29:27Z._
