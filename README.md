@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,094 · **Forks**: 104 · **Open issues**: 195 · **Contributors**: 39
+- **Stars**: 1,095 · **Forks**: 104 · **Open issues**: 195 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -56,16 +56,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 5 | 0 | 2 | 3 | 8 |
-| last60d | 2026-07-13 | 1 | 15 | 0 | 2 | 4 | 15 |
-| 90d | 2026-06-13 | 2 | 25 | 0 | 2 | 4 | 33 |
-| last180d | 2026-03-15 | 2 | 42 | 0 | 3 | 4 | 52 |
-| 360d | 2025-09-16 | 5 | 73 | 2 | 17 | 4 | 96 |
-| last720d | 2024-09-21 | 9 | 122 | 2 | 31 | 4 | 160 |
+| 30d | 2026-08-14 | 0 | 5 | 0 | 2 | 3 | 8 |
+| last60d | 2026-07-15 | 0 | 13 | 0 | 2 | 4 | 15 |
+| 90d | 2026-06-15 | 2 | 25 | 0 | 2 | 4 | 33 |
+| last180d | 2026-03-17 | 2 | 41 | 0 | 3 | 4 | 52 |
+| 360d | 2025-09-18 | 5 | 73 | 2 | 17 | 4 | 96 |
+| last720d | 2024-09-23 | 9 | 120 | 2 | 31 | 4 | 160 |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/markdownlint-cli). **7** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/markdownlint-cli). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:46:44Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T02:30:28Z._
