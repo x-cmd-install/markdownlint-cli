@@ -217,4 +217,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
-{"id":354102141,"author":{"login":"DavidAnson","id":1828270,"node_id":"MDQ6VXNlcjE4MjgyNzA=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAvn-Pc4VGyt9","tag_name":"v0.49.1","target_commitish":"master","name":"v0.49.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-14T21:58:26Z","updated_at":"2026-07-14T22:04:36Z","published_at":"2026-07-14T22:04:36Z","assets":[],"body":"- Update `markdownlint` dependency to `0.41.1`\r\n  - Improve `MD029`\r\n  - Fix module resolution under `webpack`\r\n  - Update dependencies\r\n- Update all dependencies via `Dependabot`","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
