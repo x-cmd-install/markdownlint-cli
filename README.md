@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.49.1` (2026-07-14)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-13
 
 ## Popularity
 
@@ -50,28 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 430 · **Open PRs**: 4 · **Closed issues**: 175 · **Open issues**: 20 · **Commits**: 720
+- **Releases**: 64 · **Merged PRs**: 431 · **Open PRs**: 4 · **Closed issues**: 175 · **Open issues**: 20 · **Commits**: 721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 5 | 0 | 2 | 3 | 8 |
-| last60d | 2026-07-15 | 0 | 13 | 0 | 2 | 4 | 15 |
-| 90d | 2026-06-15 | 2 | 25 | 0 | 2 | 4 | 33 |
-| last180d | 2026-03-17 | 2 | 41 | 0 | 3 | 4 | 52 |
-| 360d | 2025-09-18 | 5 | 73 | 2 | 17 | 4 | 96 |
-| last720d | 2024-09-23 | 9 | 120 | 2 | 31 | 4 | 160 |
-
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/markdownlint-cli). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.49.1` | ✅ latest |
-| Homebrew | `0.49.1` | ✅ latest |
-| Nix unstable | `0.49.1` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 6 | 0 | 0 | 2 | 4 |
+| last60d | 2026-07-16 | 0 | 14 | 0 | 2 | 4 | 16 |
+| 90d | 2026-06-16 | 2 | 26 | 0 | 2 | 4 | 32 |
+| last180d | 2026-03-18 | 2 | 42 | 0 | 3 | 4 | 51 |
+| 360d | 2025-09-19 | 5 | 74 | 2 | 17 | 4 | 97 |
+| last720d | 2024-09-24 | 9 | 121 | 2 | 30 | 4 | 158 |
 
 ## Improve this data
 
@@ -82,4 +72,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:30:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T02:46:22Z._
