@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,099 · **Forks**: 107 · **Open issues**: 196 · **Contributors**: 39
+- **Stars**: 1,100 · **Forks**: 107 · **Open issues**: 196 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 8 | 0 | 0 | 1 | 9 |
-| last60d | 2026-08-17 | 0 | 14 | 0 | 0 | 3 | 15 |
-| 90d | 2026-07-18 | 0 | 24 | 0 | 2 | 5 | 27 |
-| last180d | 2026-04-19 | 2 | 44 | 0 | 3 | 5 | 54 |
-| 360d | 2025-10-21 | 5 | 80 | 2 | 17 | 5 | 103 |
-| last720d | 2024-10-26 | 8 | 131 | 2 | 29 | 5 | 168 |
+| 30d | 2026-09-17 | 0 | 8 | 0 | 0 | 1 | 9 |
+| last60d | 2026-08-18 | 0 | 14 | 0 | 0 | 3 | 15 |
+| 90d | 2026-07-19 | 0 | 24 | 0 | 2 | 5 | 27 |
+| last180d | 2026-04-20 | 2 | 44 | 0 | 3 | 5 | 54 |
+| 360d | 2025-10-22 | 5 | 80 | 2 | 17 | 5 | 103 |
+| last720d | 2024-10-27 | 8 | 131 | 2 | 29 | 5 | 168 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T02:35:38Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T02:28:05Z._
