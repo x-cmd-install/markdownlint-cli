@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 8 | 0 | 0 | 1 | 9 |
-| last60d | 2026-08-18 | 0 | 14 | 0 | 0 | 3 | 15 |
-| 90d | 2026-07-19 | 0 | 24 | 0 | 2 | 5 | 27 |
-| last180d | 2026-04-20 | 2 | 44 | 0 | 3 | 5 | 54 |
-| 360d | 2025-10-22 | 5 | 80 | 2 | 17 | 5 | 103 |
-| last720d | 2024-10-27 | 8 | 131 | 2 | 29 | 5 | 168 |
+| 30d | 2026-09-18 | 0 | 8 | 0 | 0 | 1 | 7 |
+| last60d | 2026-08-19 | 0 | 14 | 0 | 0 | 3 | 15 |
+| 90d | 2026-07-20 | 0 | 24 | 0 | 2 | 5 | 24 |
+| last180d | 2026-04-21 | 2 | 44 | 0 | 3 | 5 | 54 |
+| 360d | 2025-10-23 | 5 | 80 | 2 | 17 | 5 | 102 |
+| last720d | 2024-10-28 | 8 | 128 | 2 | 29 | 5 | 168 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T02:28:05Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T02:28:13Z._
