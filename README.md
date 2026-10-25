@@ -14,11 +14,11 @@ x install markdownlint-cli
 
 ## Code insight
 
-Total: **8,675** lines of code across **33** files in the top 5 languages.
+Total: **8,712** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 7,566 | 0 | 3 | 14 |
+| Json | 7,603 | 0 | 3 | 14 |
 | JavaScript | 1,065 | 31 | 144 | 11 |
 | Yaml | 20 | 0 | 1 | 4 |
 | Toml | 17 | 0 | 5 | 3 |
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.49.1` (2026-07-14)
-- **Last commit**: 2026-10-19
+- **Latest**: `v0.50.0` (2026-10-24)
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 445 · **Open PRs**: 4 · **Closed issues**: 175 · **Open issues**: 22 · **Commits**: 736
+- **Releases**: 65 · **Merged PRs**: 447 · **Open PRs**: 3 · **Closed issues**: 177 · **Open issues**: 20 · **Commits**: 740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 11 | 0 | 0 | 2 | 11 |
-| last60d | 2026-08-25 | 0 | 18 | 0 | 0 | 4 | 19 |
-| 90d | 2026-07-26 | 0 | 25 | 0 | 2 | 6 | 28 |
-| last180d | 2026-04-27 | 2 | 47 | 0 | 3 | 6 | 58 |
-| 360d | 2025-10-29 | 5 | 83 | 2 | 17 | 6 | 106 |
-| last720d | 2024-11-03 | 8 | 132 | 2 | 28 | 6 | 168 |
+| 30d | 2026-09-25 | 1 | 13 | 0 | 2 | 0 | 13 |
+| last60d | 2026-08-26 | 1 | 20 | 0 | 2 | 2 | 21 |
+| 90d | 2026-07-27 | 1 | 27 | 0 | 4 | 4 | 32 |
+| last180d | 2026-04-28 | 3 | 49 | 0 | 5 | 4 | 62 |
+| 360d | 2025-10-30 | 6 | 85 | 1 | 19 | 4 | 109 |
+| last720d | 2024-11-04 | 9 | 134 | 1 | 30 | 4 | 172 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T02:47:27Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T02:38:21Z._
