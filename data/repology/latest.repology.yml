@@ -5,14 +5,14 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: 0.49.1-1
-  status: newest
+  status: outdated
   summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
 - repo: chocolatey
   binname: markdownlint-cli
   visiblename: MarkdownLint Command Line Interface
-  version: 0.49.1
+  version: 0.50.0
   origversion: null
   status: newest
   summary: MarkdownLint command line interface
@@ -30,7 +30,7 @@
   subrepo: contrib
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
-  version: 0.49.1
+  version: 0.50.0
   origversion: null
   status: newest
   summary: MarkdownLint Command Line Interface
@@ -41,7 +41,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI for Node.js style checker and lint tool for Markdown files
 - repo: macports
   srcname: textproc/markdownlint-cli
@@ -49,7 +49,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line interface for MarkdownLint
   maintainers:
     - pguyot@macports
@@ -76,7 +76,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: 0.49.1-1
-  status: newest
+  status: outdated
   summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
@@ -87,7 +87,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: 0.49.1-1
-  status: newest
+  status: outdated
   summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
@@ -151,7 +151,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line interface for MarkdownLint
   maintainers:
     - bruno.nixpkgs@belanyi.fr
@@ -164,7 +164,7 @@
   visiblename: markdownlint-cli
   version: 0.49.1
   origversion: 0.49.1-1
-  status: newest
+  status: outdated
   summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
