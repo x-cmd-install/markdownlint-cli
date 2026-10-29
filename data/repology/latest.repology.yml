@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: markdownlint-cli
-  visiblename: markdownlint-cli
-  version: 0.44.0
-  origversion: null
-  status: outdated
-  summary: Command line interface for MarkdownLint
-  maintainers:
-    - bruno.nixpkgs@belanyi.fr
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
@@ -20,18 +9,18 @@
     - bruno.nixpkgs@belanyi.fr
   licenses:
     - MIT
-- repo: nix_stable_24_11
+- repo: arch
+  subrepo: extra
   srcname: markdownlint-cli
+  binname: markdownlint-cli
   visiblename: markdownlint-cli
-  version: 0.42.0
-  origversion: null
+  version: 0.49.1
+  origversion: 0.49.1-1
   status: outdated
-  summary: Command line interface for MarkdownLint
-  maintainers:
-    - bruno.nixpkgs@belanyi.fr
+  summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
-- repo: arch
+- repo: parabola
   subrepo: extra
   srcname: markdownlint-cli
   binname: markdownlint-cli
@@ -135,6 +124,28 @@
     - bruno.nixpkgs@belanyi.fr
   licenses:
     - MIT
+- repo: nix_stable_24_11
+  srcname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Command line interface for MarkdownLint
+  maintainers:
+    - bruno.nixpkgs@belanyi.fr
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.44.0
+  origversion: null
+  status: outdated
+  summary: Command line interface for MarkdownLint
+  maintainers:
+    - bruno.nixpkgs@belanyi.fr
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
@@ -149,22 +160,11 @@
 - repo: nix_unstable
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
-  version: 0.49.1
+  version: 0.50.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Command line interface for MarkdownLint
   maintainers:
     - bruno.nixpkgs@belanyi.fr
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: markdownlint-cli
-  binname: markdownlint-cli
-  visiblename: markdownlint-cli
-  version: 0.49.1
-  origversion: 0.49.1-1
-  status: outdated
-  summary: Command-line interface for MarkdownLint
   licenses:
     - MIT
