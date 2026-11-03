@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/tarball/v0.50.0",
   "zipball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/zipball/v0.50.0",
-  "body": "- Update `markdownlint` dependency to `0.42.0`\r\n  - Improve `MD011`/`MD018`/`MD020`/`MD043`/`MD051`/`MD055`/`MD060`\r\n  - Add regular expression denial of service protection\r\n  - Add support for reporting issues with front matter\r\n  - Update dependencies\r\n- Update all dependencies via `Dependabot`"
+  "body": "- Update `markdownlint` dependency to `0.42.0`\r\n  - Improve `MD011`/`MD018`/`MD020`/`MD043`/`MD051`/`MD055`/`MD060`\r\n  - Add regular expression denial of service protection\r\n  - Add support for reporting issues with front matter\r\n  - Update dependencies\r\n- Update all dependencies via `Dependabot`",
+  "reactions": {
+    "url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/423040181/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
