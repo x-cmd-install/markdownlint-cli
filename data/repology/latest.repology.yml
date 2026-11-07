@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: markdownlint-cli
-  visiblename: markdownlint-cli
-  version: 0.44.0
-  origversion: null
-  status: outdated
-  summary: Command line interface for MarkdownLint
-  maintainers:
-    - bruno.nixpkgs@belanyi.fr
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: markdownlint-cli
-  visiblename: markdownlint-cli
-  version: 0.42.0
-  origversion: null
-  status: outdated
-  summary: Command line interface for MarkdownLint
-  maintainers:
-    - bruno.nixpkgs@belanyi.fr
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: markdownlint-cli
@@ -80,6 +58,28 @@
     - MIT
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: markdownlint-cli
+  binname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.49.1
+  origversion: 0.49.1-1
+  status: outdated
+  summary: Command-line interface for MarkdownLint
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: markdownlint-cli
+  binname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.49.1
+  origversion: 0.49.1-1
+  status: outdated
+  summary: Command-line interface for MarkdownLint
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: markdownlint-cli
@@ -95,6 +95,28 @@
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
   version: 0.40.0
+  origversion: null
+  status: outdated
+  summary: Command line interface for MarkdownLint
+  maintainers:
+    - bruno.nixpkgs@belanyi.fr
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Command line interface for MarkdownLint
+  maintainers:
+    - bruno.nixpkgs@belanyi.fr
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: markdownlint-cli
+  visiblename: markdownlint-cli
+  version: 0.44.0
   origversion: null
   status: outdated
   summary: Command line interface for MarkdownLint
