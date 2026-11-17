@@ -14,12 +14,12 @@ x install markdownlint-cli
 
 ## Code insight
 
-Total: **8,806** lines of code across **33** files in the top 5 languages.
+Total: **8,826** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,690 | 0 | 3 | 14 |
-| JavaScript | 1,072 | 33 | 145 | 11 |
+| JavaScript | 1,092 | 34 | 147 | 11 |
 | Yaml | 20 | 0 | 1 | 4 |
 | Toml | 17 | 0 | 5 | 3 |
 | Dockerfile | 7 | 0 | 6 | 1 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.50.0` (2026-10-24)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 1,106 · **Forks**: 110 · **Open issues**: 198 · **Contributors**: 40
+- **Stars**: 1,108 · **Forks**: 110 · **Open issues**: 198 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 454 · **Open PRs**: 5 · **Closed issues**: 178 · **Open issues**: 20 · **Commits**: 747
+- **Releases**: 65 · **Merged PRs**: 458 · **Open PRs**: 4 · **Closed issues**: 178 · **Open issues**: 20 · **Commits**: 751
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 13 | 2 | 2 | 0 | 11 |
-| last60d | 2026-09-17 | 1 | 21 | 2 | 3 | 0 | 22 |
-| 90d | 2026-08-18 | 1 | 27 | 2 | 3 | 2 | 30 |
-| last180d | 2026-05-20 | 3 | 54 | 2 | 6 | 4 | 64 |
-| 360d | 2025-11-21 | 5 | 88 | 2 | 16 | 4 | 110 |
-| last720d | 2024-11-26 | 8 | 140 | 3 | 31 | 4 | 176 |
+| 30d | 2026-10-18 | 1 | 17 | 1 | 2 | 0 | 15 |
+| last60d | 2026-09-18 | 1 | 25 | 1 | 3 | 0 | 26 |
+| 90d | 2026-08-19 | 1 | 31 | 1 | 3 | 2 | 34 |
+| last180d | 2026-05-21 | 3 | 58 | 1 | 6 | 4 | 68 |
+| 360d | 2025-11-22 | 5 | 92 | 1 | 16 | 4 | 114 |
+| last720d | 2024-11-27 | 8 | 144 | 2 | 31 | 4 | 180 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T04:10:12Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T05:57:55Z._
