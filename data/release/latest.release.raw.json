@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/423040181",
-  "assets_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/423040181/assets",
-  "upload_url": "https://uploads.github.com/repos/igorshubovych/markdownlint-cli/releases/423040181/assets{?name,label}",
-  "html_url": "https://github.com/igorshubovych/markdownlint-cli/releases/tag/v0.50.0",
-  "id": 423040181,
+  "url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/454074670",
+  "assets_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/454074670/assets",
+  "upload_url": "https://uploads.github.com/repos/igorshubovych/markdownlint-cli/releases/454074670/assets{?name,label}",
+  "html_url": "https://github.com/igorshubovych/markdownlint-cli/releases/tag/v0.50.1",
+  "id": 454074670,
   "author": {
     "login": "DavidAnson",
     "id": 1828270,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAvn-Pc4ZNxS1",
-  "tag_name": "v0.50.0",
+  "node_id": "RE_kwDOAvn-Pc4bEKEu",
+  "tag_name": "v0.50.1",
   "target_commitish": "master",
-  "name": "v0.50.0",
+  "name": "v0.50.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-24T23:18:50Z",
-  "updated_at": "2026-10-24T23:25:37Z",
-  "published_at": "2026-10-24T23:25:37Z",
+  "created_at": "2026-11-21T23:57:35Z",
+  "updated_at": "2026-11-22T00:04:53Z",
+  "published_at": "2026-11-22T00:04:53Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/tarball/v0.50.0",
-  "zipball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/zipball/v0.50.0",
-  "body": "- Update `markdownlint` dependency to `0.42.0`\r\n  - Improve `MD011`/`MD018`/`MD020`/`MD043`/`MD051`/`MD055`/`MD060`\r\n  - Add regular expression denial of service protection\r\n  - Add support for reporting issues with front matter\r\n  - Update dependencies\r\n- Update all dependencies via `Dependabot`",
-  "reactions": {
-    "url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/releases/423040181/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/tarball/v0.50.1",
+  "zipball_url": "https://api.github.com/repos/igorshubovych/markdownlint-cli/zipball/v0.50.1",
+  "body": "- Update `markdownlint` dependency to `0.42.2`\r\n  - Improve `MD042`/`MD052`/`MD054`\r\n  - Handle null prototype configuration objects\r\n  - Update dependencies\r\n- Fix uncommon exit code and `.markdownlintignore` behaviors\r\n- Update all dependencies via `Dependabot`"
 }
