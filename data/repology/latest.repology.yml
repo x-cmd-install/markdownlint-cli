@@ -12,7 +12,7 @@
 - repo: chocolatey
   binname: markdownlint-cli
   visiblename: MarkdownLint Command Line Interface
-  version: 0.50.0
+  version: 0.50.1
   origversion: null
   status: newest
   summary: MarkdownLint command line interface
@@ -30,7 +30,7 @@
   subrepo: contrib
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
-  version: 0.50.0
+  version: 0.50.1
   origversion: null
   status: newest
   summary: MarkdownLint Command Line Interface
@@ -39,7 +39,7 @@
 - repo: homebrew
   srcname: markdownlint-cli
   visiblename: markdownlint-cli
-  version: 0.50.0
+  version: 0.50.1
   origversion: null
   status: newest
   summary: CLI for Node.js style checker and lint tool for Markdown files
@@ -151,7 +151,7 @@
   visiblename: markdownlint-cli
   version: 0.50.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line interface for MarkdownLint
   maintainers:
     - bruno.nixpkgs@belanyi.fr
