@@ -26,12 +26,12 @@ Total: **8,826** lines of code across **33** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (4/10) — Found 2/5 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 15 | 2 | 1 | 0 | 17 |
-| last60d | 2026-09-24 | 2 | 28 | 2 | 3 | 0 | 30 |
-| 90d | 2026-08-25 | 2 | 35 | 2 | 3 | 2 | 40 |
-| last180d | 2026-05-27 | 4 | 61 | 2 | 6 | 4 | 74 |
-| 360d | 2025-11-28 | 6 | 95 | 2 | 15 | 4 | 120 |
-| last720d | 2024-12-03 | 9 | 148 | 3 | 31 | 4 | 186 |
+| 30d | 2026-10-25 | 1 | 15 | 2 | 1 | 0 | 17 |
+| last60d | 2026-09-25 | 2 | 28 | 2 | 3 | 0 | 30 |
+| 90d | 2026-08-26 | 2 | 35 | 2 | 3 | 2 | 40 |
+| last180d | 2026-05-28 | 4 | 61 | 2 | 6 | 4 | 74 |
+| 360d | 2025-11-29 | 6 | 95 | 2 | 15 | 4 | 120 |
+| last720d | 2024-12-04 | 9 | 148 | 3 | 31 | 4 | 186 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for markdownlint-cli lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T05:04:20Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T07:51:50Z._
