@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.50.1"
   latestRelease: "v0.50.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T06:06:46Z
+  collectedAt: 2026-11-28T05:47:20Z
 timeline:
   created: 2016-01-19
   lastCommit: 2026-11-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-22
   lastPrerelease: 
 popularity:
-  star: 1109
+  star: 1110
   watcher: 12
   fork: 110
   release: 66
@@ -28,7 +28,7 @@ language:
 totalBytes: 51346
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 15
     openPR: 1
@@ -36,7 +36,7 @@ recent:
     openIssue: 0
     commit: 17
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 26
     openPR: 1
@@ -44,15 +44,15 @@ recent:
     openIssue: 0
     commit: 30
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 35
     openPR: 1
     closedIssue: 3
-    openIssue: 1
+    openIssue: 0
     commit: 40
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 4
     mergedPR: 61
     openPR: 1
@@ -60,7 +60,7 @@ recent:
     openIssue: 4
     commit: 74
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
     mergedPR: 95
     openPR: 1
@@ -68,7 +68,7 @@ recent:
     openIssue: 4
     commit: 120
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 9
     mergedPR: 147
     openPR: 2
@@ -84,7 +84,7 @@ total:
   commit: 757
 ---
 path: /home/runner/.x-repo/github.com/igorshubovych/markdownlint-cli
-collectedAt: 2026-11-27T06:06:48Z
+collectedAt: 2026-11-28T05:47:21Z
 loc:
   Json:
     code: 7690
